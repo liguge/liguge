@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Views
+![](http://profile-counter.glitch.me/liguge/count.svg)
 
 ### CountTop Langs.
 
