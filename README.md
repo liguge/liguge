@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### GitHub stats.
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhaoZhibin&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liguge&show_icons=true&theme=tokyonight)
 
 ### GitHub trophy.
 
