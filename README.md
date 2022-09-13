@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Google scholar
+https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en
+
 ### Views
 ![](http://profile-counter.glitch.me/liguge/count.svg)
 
