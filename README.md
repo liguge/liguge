@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 ### Google scholar
 https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en
 
+### Social
+
+ - **huantaihechao#163.com**
+ - **22110435#bjtu.edu.cn**
+ 
 ### Views
 ![](http://profile-counter.glitch.me/liguge/count.svg)
 
@@ -38,7 +43,4 @@ https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=liguge&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Social
 
- - **huantaihechao#163.com**
- - **22110435#bjtu.edu.cn**
