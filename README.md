@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ### 🌐 Follow Me
 
-[![GitHub ohmycaptainnemo](https://img.shields.io/github/followers/ohmycaptainnemo?label=follow&style=social)](https://github.com/liguge)
+[![GitHub ohmycaptainnemo](https://img.shields.io/github/followers/liguge?label=follow&style=social)](https://github.com/liguge)
 
 ### Google scholar
 https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en
@@ -33,7 +33,7 @@ https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en
 ![](http://profile-counter.glitch.me/liguge/count.svg)
 
 ### CountTop Langs.
-[![](https://visitcount.itsvg.in/api?id=liguge&icon=2&color=6)](https://visitcount.itsvg.in)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liguge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### GitHub Streak.
