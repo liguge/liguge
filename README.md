@@ -1,6 +1,12 @@
 <!--
 **liguge/liguge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<h1 align="center"><img src="https://media.giphy.com/media/1nctTrbXXmMHUVAaOo/giphy.gif" width="100%"></h1>
+
+<h1 align="center">Hi <img src="https://media.giphy.com/media/RzqkoOmhuh86XsECvl/giphy.gif" width="50">, I'm chao He!</h1>
+
+<h3 align="center">I'm a passionate software engineer and enthusiast.</h3>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
