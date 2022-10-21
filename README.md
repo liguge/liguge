@@ -24,11 +24,11 @@ https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en
 
 ### 🌱 My published papers：
 
-- [1] [Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://ieeexplore.ieee.org/document/9374403)
-- [2][Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242)
-- [3]Unpublished paper 《振动与冲击》
-- [4]Under view
-- [5]Under writing the manuscript
+- [Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://ieeexplore.ieee.org/document/9374403)
+- [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242)
+- Unpublished paper 《振动与冲击》
+- Under view
+- Under writing the manuscript
 
 ### 🌐 Follow Me
 
