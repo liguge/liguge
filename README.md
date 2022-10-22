@@ -27,7 +27,7 @@ https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en
 - [Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://ieeexplore.ieee.org/document/9374403) 
 - [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242) 
 - Unpublished paper 《振动与冲击》
-- Under view
+- Under review
 - Under writing the manuscript
 
 ### 🌐 Follow Me
