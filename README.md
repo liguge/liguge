@@ -34,7 +34,7 @@ https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en
 
 [![GitHub ohmycaptainnemo](https://img.shields.io/github/followers/liguge?label=follow&style=social)](https://github.com/liguge)
 
-### 🅰️ Social
+### ⚡ Social
 
  - **huantaihechao#163.com**
  - **22110435#bjtu.edu.cn**
