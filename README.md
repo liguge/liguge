@@ -30,7 +30,7 @@ https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en
 - [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242)    
   -  [**code**](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)
 
-- Unpublished paper 《振动与冲击》
+- Accepted but unpublished paper 《振动与冲击》
 - Under review
 - Under writing the manuscript
 
