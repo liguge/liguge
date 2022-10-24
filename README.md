@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en
 
+https://sc.panda321.com/citations?user=1DtpMlAAAAAJ&hl=zh-CN&oi=sra  [熊猫学术]
+
 ### 🌱 My published papers：
 
 - [Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://ieeexplore.ieee.org/document/9374403)     
