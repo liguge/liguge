@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### ❤️ Google scholar
 
-https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en
+https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en  [Google scholar]
 
 https://sc.panda321.com/citations?user=1DtpMlAAAAAJ&hl=zh-CN&oi=sra  [熊猫学术]
 
