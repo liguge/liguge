@@ -24,8 +24,12 @@ https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en
 
 ### 🌱 My published papers：
 
-- [Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://ieeexplore.ieee.org/document/9374403)      [**code**](https://github.com/liguge/FWA-DBN-ELM-for-intelligent-fault-diagnosis)
-- [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242)     [**code**](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)
+- [Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://ieeexplore.ieee.org/document/9374403)     
+  -  [**code**](https://github.com/liguge/FWA-DBN-ELM-for-intelligent-fault-diagnosis)
+
+- [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242)    
+  -  [**code**](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)
+
 - Unpublished paper 《振动与冲击》
 - Under review
 - Under writing the manuscript
