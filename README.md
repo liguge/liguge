@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242)    
   -  [**code**](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)
 
-- Accepted but unpublished paper 《振动与冲击》
+- Accepted but unpublished paper 《振动与冲击》 41卷24期
 - Under review
 - Under writing the manuscript
 
