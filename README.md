@@ -26,17 +26,30 @@ Here are some ideas to get you started:
 
 ### 🌱 My published papers：
 
-- [Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://ieeexplore.ieee.org/document/9374403)     
+1. [Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://ieeexplore.ieee.org/document/9374403)     
+
   -  [**code**](https://github.com/liguge/FWA-DBN-ELM-for-intelligent-fault-diagnosis)
 
-- [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242)    
+2. [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242)    
   -  [**code**](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)
 
-- 罗浩,**何超**,陈彪,路颜萍,张欣,张利. [J].振动与冲击,2020,41(24):41-50.DOI:10.13465/j.cnki.jvs.2022.24.006
-- Under review
-- Under writing the manuscript
+3. 罗浩,**何超**,陈彪,路颜萍,张欣,张利.基于Laplace小波卷积和BiGRU的少量样本故障诊断方法 [J].振动与冲击,2020,41(24):41-50.DOI:10.13465/j.cnki.jvs.2022.24.006
+
+   - [code](https://github.com/liguge/DLWCB)
+
+4. Under review
+
+5. Under writing the manuscript
+
+6. [Journals for Prognostics and Health Management](https://github.com/liguge/Journals-for-Prognostics-and-Health-Management)
+
+   
 
 ### 💬 Published papers that I try to reproduce
+
+1. [Deep Residual Shrinkage Networks for Fault Diagnosis](https://github.com/liguge/Deep-Residual-Shrinkage-Networks-for-intelligent-fault-diagnosis-DRSN-)
+2. [A Rolling Bearing Fault Diagnosis Method Using Multi-Sensor Data and Periodic Sampling](https://github.com/liguge/MDPS_pytorch)
+3. [Deep discriminative transfer learning network for cross-machine fault diagnosis](https://github.com/liguge/DDTLN)
 
 
 ### 🌐 Follow Me
