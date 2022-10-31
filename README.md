@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 5. Under writing the manuscript
 
-6. **[Journals for Prognostics and Health Management](https://github.com/liguge/Journals-for-Prognostics-and-Health-Management)**
+6. **[Journals for Prognostics and Health Management](https://github.com/liguge/Journals-for-Prognostics-and-Health-Management)**（智能故障诊断和寿命预测期刊）
 
    
 
