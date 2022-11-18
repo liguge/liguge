@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
    
 
-### 💬 Published papers that I try to reproduce
+### 💬 Published papers that I try to reproduce（unofficial code）
 
 1. [Deep Residual Shrinkage Networks for Fault Diagnosis](https://github.com/liguge/Deep-Residual-Shrinkage-Networks-for-intelligent-fault-diagnosis-DRSN-)
 2. [A Rolling Bearing Fault Diagnosis Method Using Multi-Sensor Data and Periodic Sampling](https://github.com/liguge/MDPS_pytorch)
