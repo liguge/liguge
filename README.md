@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 资料免费共享，禁止贩卖！
 
 ### ❤️ Google scholar
 
