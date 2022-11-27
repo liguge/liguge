@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 
 ### 🌱 My published papers：
 
-1. [Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://ieeexplore.ieee.org/document/9374403)     
-
+1. [Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://doi.org/10.1109/ACCESS.2021.3064962)     
    -  [**code**](https://github.com/liguge/FWA-DBN-ELM-for-intelligent-fault-diagnosis)
 
 2. [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242)    
