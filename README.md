@@ -24,6 +24,8 @@ Here are some ideas to get you started:
   📫         [Google scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en)
 
   📫         [熊猫学术](https://sc.panda321.com/citations?user=1DtpMlAAAAAJ&hl=zh-CN&oi=sra)
+  
+  📫         [WOS](https://www.webofscience.com/wos/author/record/HCJ-0483-2022)
 
 ### 🌱 My published papers：
 
