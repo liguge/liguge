@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
    - [code](https://github.com/liguge/DLWCB)      [paper](http://jvs.sjtu.edu.cn/CN/abstract/abstract11911.shtml)
 
-4. Under review
+4. Under Review
 
 5. With Editor
 
