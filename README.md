@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 4. Under review
 
-5. Submitted to tutor
+5. With Editor
 
 6. **[Journals for Prognostics and Health Management（智能故障诊断和寿命预测期刊）](https://github.com/liguge/Journals-for-Prognostics-and-Health-Management)**
 
