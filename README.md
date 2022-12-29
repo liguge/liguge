@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 4. With Editor
 
-5. **[Journals for Prognostics and Health Management（智能故障诊断和寿命预测期刊）](https://github.com/liguge/Journals-for-Prognostics-and-Health-Management)**
+5. **[Journals of Prognostics and Health Management（智能故障诊断和寿命预测期刊）](https://github.com/liguge/Journals-for-Prognostics-and-Health-Management)**
 
 6. ~~[Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://doi.org/10.1109/ACCESS.2021.3064962)~~     
 
