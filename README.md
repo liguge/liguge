@@ -30,6 +30,8 @@ Here are some ideas to get you started:
   📫         [深度学术](https://xs2.zidianzhan.net/citations?user=1DtpMlAAAAAJ&hl=zh-CN&oi=sra)
 
   📫         [WOS](https://www.webofscience.com/wos/author/record/HCJ-0483-2022)
+ 
+  📫         [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57222401905)
 
 
 ### 🌱 My published papers：
