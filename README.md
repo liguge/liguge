@@ -22,15 +22,15 @@ Here are some ideas to get you started:
 ### ❤️ Google scholar
 
   📫         [Google scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en)
+    
+  📫         [ResearchGate](https://www.researchgate.net/profile/Chao-He-64)
 
   📫         [熊猫学术](https://sc.panda321.com/citations?user=1DtpMlAAAAAJ&hl=zh-CN&oi=sra)
   
   📫         [深度学术](https://xs2.zidianzhan.net/citations?user=1DtpMlAAAAAJ&hl=zh-CN&oi=sra)
 
   📫         [WOS](https://www.webofscience.com/wos/author/record/HCJ-0483-2022)
-  
-  📫         [ResearchGate](https://www.researchgate.net/profile/Chao-He-64)
-  
+
 
 ### 🌱 My published papers：
 1. [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242)    
