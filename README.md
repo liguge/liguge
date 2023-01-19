@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
    -  [**code**](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)
 
-2. [罗浩,**何超**,陈彪等.基于Laplace小波卷积和BiGRU的少量样本故障诊断方法[J].振动与冲击,2020,41(24):41-50.DOI:10.13465/j.cnki.jvs.2022.24.006](https://doi.org/10.13465/j.cnki.jvs.2022.24.006)
+2. [罗浩,**何超**,陈彪等.基于Laplace小波卷积和BiGRU的少量样本故障诊断方法[J].振动与冲击,2020,41(24):41-50.](https://doi.org/10.13465/j.cnki.jvs.2022.24.006)
    - [code](https://github.com/liguge/DLWCB)     
    - [paper](https://doi.org/10.13465/j.cnki.jvs.2022.24.006)
 
