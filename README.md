@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 3. A Rolling Bearing Fault Diagnosis Method Using Multi-Sensor Data and Periodic Sampling. [paper](https://doi.org/10.1109/ICME52920.2022.9859658) [code](https://github.com/liguge/MDPS_pytorch)
 4. Deep discriminative transfer learning network for cross-machine fault diagnosis. [paper](https://doi.org/10.1016/j.ymssp.2022.109884) [code](https://github.com/liguge/DDTLN)
 5. GTFE-Net: A Gramian Time Frequency Enhancement CNN for bearing fault diagnosis. [paper](https://doi.org/10.1016/j.engappai.2022.105794) [code](https://github.com/liguge/GTFENet_pytorch)
+6. Capsule network for fault diagnosis [code](https://github.com/liguge/Capsule-network-for-fault-diagnosis)
 
 
 ### 🌐 Follow Me
