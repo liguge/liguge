@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 4. Deep discriminative transfer learning network for cross-machine fault diagnosis. [paper](https://doi.org/10.1016/j.ymssp.2022.109884) [code](https://github.com/liguge/DDTLN)
 5. GTFE-Net: A Gramian Time Frequency Enhancement CNN for bearing fault diagnosis. [paper](https://doi.org/10.1016/j.engappai.2022.105794) [code](https://github.com/liguge/GTFENet_pytorch)
 6. Capsule network for fault diagnosis. [code](https://github.com/liguge/Capsule-network-for-fault-diagnosis)
+7. Milling chatter recognition.  [code](https://github.com/liguge/chanzhen)
 
 
 ### 🌐 Follow Me
