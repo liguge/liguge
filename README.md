@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 4. Under Review
 
-6. Writing the manuscript
+6. Under Review
 
 5. **[Journals of Prognostics and Health Management（智能故障诊断和寿命预测期刊）](https://github.com/liguge/Journals-for-Prognostics-and-Health-Management)**
 
