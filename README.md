@@ -65,6 +65,8 @@ Here are some ideas to get you started:
 5. GTFE-Net: A Gramian Time Frequency Enhancement CNN for bearing fault diagnosis. [paper](https://doi.org/10.1016/j.engappai.2022.105794) [code](https://github.com/liguge/GTFENet_pytorch)
 6. Capsule network for fault diagnosis. [code](https://github.com/liguge/Capsule-network-for-fault-diagnosis)
 7. Milling chatter recognition.  [code](https://github.com/liguge/chanzhen)
+8. A fault diagnosis method for rotating machinery based on CNN with mixed information. [paper](https://doi.org/10.1109/TII.2022.3224979) [code](https://github.com/liguge/MIXCNN_pytorch)
+
 
 
 ### 🌐 Follow Me
