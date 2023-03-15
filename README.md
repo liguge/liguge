@@ -23,8 +23,6 @@ Here are some ideas to get you started:
   📫         [Google scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en)
     
   📫         [ResearchGate](https://www.researchgate.net/profile/Chao-He-64)
-
-  📫         [熊猫学术](https://sc.panda321.com/citations?user=1DtpMlAAAAAJ&hl=zh-CN&oi=sra)
   
   📫         [深度学术](https://xs2.zidianzhan.net/citations?user=1DtpMlAAAAAJ&hl=zh-CN&oi=sra)
 
