@@ -73,8 +73,8 @@ Here are some ideas to get you started:
 
 ### ⚡ Social
 
- - **huantaihechao#163.com**
  - **22110435#bjtu.edu.cn**
+ - **huantaihechao#163.com**
 
 ### ✅ Views
 ![](http://profile-counter.glitch.me/liguge/count.svg)
