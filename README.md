@@ -41,7 +41,7 @@ Here are some ideas to get you started:
    - [code](https://github.com/liguge/DLWCB)     
    - [paper](https://doi.org/10.13465/j.cnki.jvs.2022.24.006)
 
-3.  [Under Review](Under Review)
+3.  [EWSNet](Under Review)
    - [code](https://github.com/liguge/EWSNet_new)    
    - [paper](Under Review)
    - 
