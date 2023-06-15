@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     
   📫         [ResearchGate](https://www.researchgate.net/profile/Chao-He-64)
   
-  📫         [学术镜像](https://scholar.lanfanshu.cn/citations?user=1DtpMlAAAAAJ&hl=zh-CN&oi=sra)
+  📫         [学术镜像](https://sc.panda321.com/citations?user=1DtpMlAAAAAJ&hl=zh-CN&oi=sra)
 
   📫         [WOS](https://www.webofscience.com/wos/author/record/HCJ-0483-2022)
  
