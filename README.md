@@ -32,27 +32,27 @@ Here are some ideas to get you started:
 
 
 ### 🌱 My published papers：
-1. [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242)    
+1. [Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](Under Review)
+
+   - [code](https://github.com/liguge/EWSNet_new)    
+   - [paper](Under Review)
+
+2. [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242)    
 
    -  [**code**](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)
    -  [**paper**](https://doi.org/10.1016/j.measurement.2021.110242)     
 
-2. [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://doi.org/10.13465/j.cnki.jvs.2022.24.006)
+3. [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://doi.org/10.13465/j.cnki.jvs.2022.24.006)
    - [code](https://github.com/liguge/DLWCB)     
    - [paper](https://doi.org/10.13465/j.cnki.jvs.2022.24.006)
 
-3.  [Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](Under Review)
-    
-    - [code](https://github.com/liguge/EWSNet_new)    
-    - [paper](Under Review)
-    
 4. Under Review
 
-6. Under Review
+5. Under Review
 
-5. **[Journals of Prognostics and Health Management（智能故障诊断和寿命预测期刊）](https://github.com/liguge/Journals-for-Prognostics-and-Health-Management)**
+6. **[Journals of Prognostics and Health Management（智能故障诊断和寿命预测期刊）](https://github.com/liguge/Journals-for-Prognostics-and-Health-Management)**
 
-6. ~~[Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://doi.org/10.1109/ACCESS.2021.3064962)~~     
+7. ~~[Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://doi.org/10.1109/ACCESS.2021.3064962)~~     
 
    -  ~~[**code**](https://github.com/liguge/FWA-DBN-ELM-for-intelligent-fault-diagnosis)~~
 
