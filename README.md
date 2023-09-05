@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 
 ### 🌱 My published papers：
-1. [Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](Under Review)
+1. [Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)
 
    - [code](https://github.com/liguge/EWSNet_new)    
-   - [paper](Under Review)
+   - [paper](https://doi.org/10.1016/j.jmsy.2023.08.014)
 
 2. [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242)    
 
