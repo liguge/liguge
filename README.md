@@ -47,17 +47,17 @@ Here are some ideas to get you started:
 ​                                       $\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow$**Publications during the master 's degree**$\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow$
 
 1. [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242)    
-2. -  [code](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)
-   -  [paper](https://doi.org/10.1016/j.measurement.2021.110242)     
+    -  [code](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)
+    -  [paper](https://doi.org/10.1016/j.measurement.2021.110242)     
 3. [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://doi.org/10.13465/j.cnki.jvs.2022.24.006)
-4. - [code](https://github.com/liguge/DLWCB)     
-   - [paper](https://doi.org/10.13465/j.cnki.jvs.2022.24.006)
+    - [code](https://github.com/liguge/DLWCB)     
+    - [paper](https://doi.org/10.13465/j.cnki.jvs.2022.24.006)
 5. Under Review
 6. Under Review
 7. **[Journals of Prognostics and Health Management（智能故障诊断和寿命预测期刊）](https://github.com/liguge/Journals-for-Prognostics-and-Health-Management)**
 8. ~~[Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://doi.org/10.1109/ACCESS.2021.3064962)~~     
 
-9. -  ~~[**code**](https://github.com/liguge/FWA-DBN-ELM-for-intelligent-fault-diagnosis)~~
+    -  ~~[**code**](https://github.com/liguge/FWA-DBN-ELM-for-intelligent-fault-diagnosis)~~
 
 
 
