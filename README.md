@@ -34,30 +34,31 @@ Here are some ideas to get you started:
 ### 🌱 My published papers：
 1. [Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)
 
-   - **[code](https://github.com/liguge/EWSNet)**    
-   - **[paper](https://doi.org/10.1016/j.jmsy.2023.08.014)**
+- **[code](https://github.com/liguge/EWSNet)**    
 
-2. [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242)    
+- **[paper](https://doi.org/10.1016/j.jmsy.2023.08.014)**
 
-   -  [code](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)
+  ------
+
+  
+
+​                                       $\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow$**Achievements published during the master 's degree**$\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow$
+
+1. [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242)    
+2. -  [code](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)
    -  [paper](https://doi.org/10.1016/j.measurement.2021.110242)     
-
 3. [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://doi.org/10.13465/j.cnki.jvs.2022.24.006)
-   
-   - [code](https://github.com/liguge/DLWCB)     
+4. - [code](https://github.com/liguge/DLWCB)     
    - [paper](https://doi.org/10.13465/j.cnki.jvs.2022.24.006)
-   
-4. Under Review
-
 5. Under Review
+6. Under Review
+7. **[Journals of Prognostics and Health Management（智能故障诊断和寿命预测期刊）](https://github.com/liguge/Journals-for-Prognostics-and-Health-Management)**
+8. ~~[Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://doi.org/10.1109/ACCESS.2021.3064962)~~     
 
-6. **[Journals of Prognostics and Health Management（智能故障诊断和寿命预测期刊）](https://github.com/liguge/Journals-for-Prognostics-and-Health-Management)**
+9. -  ~~[**code**](https://github.com/liguge/FWA-DBN-ELM-for-intelligent-fault-diagnosis)~~
 
-7. ~~[Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://doi.org/10.1109/ACCESS.2021.3064962)~~     
 
-   -  ~~[**code**](https://github.com/liguge/FWA-DBN-ELM-for-intelligent-fault-diagnosis)~~
 
-   
 
 ### 💬 Published papers that I try to reproduce（unofficial code）
 
