@@ -18,7 +18,8 @@ jobs:
         python-version: 3.x
 
     - name: Install dependencies
-      run: pip install requests
+      run: pip install scholarly
 
     - name: Get Citation Count
       run: python get_citation_count.py
+
