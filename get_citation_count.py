@@ -8,7 +8,7 @@ def get_citation_count(doi):
     return citation_count
 
 if __name__ == "__main__":
-    doi = "YOUR_PAPER_DOI_HERE"
+    doi = "10.1016/j.measurement.2021.110242"
     citation_count = get_citation_count(doi)
     print(f"Paper DOI: {doi}")
     print(f"Citation Count: {citation_count}")
