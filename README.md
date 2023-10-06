@@ -38,6 +38,13 @@ Here are some ideas to get you started:
 
 
    - **[paper](https://doi.org/10.1016/j.jmsy.2023.08.014)**
+     
+2. IDSN: A one-stage Interpretable and Differentiable STFT domain adaptation Network for traction motor of high-speed trains cross-machine diagnosis
+
+   - **code**    
+
+
+   - **paper**
 
      ------
 
@@ -52,7 +59,6 @@ Here are some ideas to get you started:
 3. [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://doi.org/10.13465/j.cnki.jvs.2022.24.006)
     - [code](https://github.com/liguge/DLWCB)     
     - [paper](https://doi.org/10.13465/j.cnki.jvs.2022.24.006)
-5. Under Review
 6. Under Review
 7. **[Journals of Prognostics and Health Management（智能故障诊断和寿命预测期刊）](https://github.com/liguge/Journals-for-Prognostics-and-Health-Management)**
 8. ~~[Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://doi.org/10.1109/ACCESS.2021.3064962)~~     
