@@ -7,7 +7,7 @@ def get_citation_count(title):
     return citation_count
 
 if __name__ == "__main__":
-    paper_title = "YOUR_PAPER_TITLE_HERE"
+    paper_title = "10.1016/j.measurement.2021.110242"
     citation_count = get_citation_count(paper_title)
     print(f"Paper Title: {paper_title}")
     print(f"Citation Count: {citation_count}")
