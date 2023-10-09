@@ -37,14 +37,14 @@ Here are some ideas to get you started:
    - **[code](https://github.com/liguge/EWSNet)**    
    
    
-      - **[paper](https://doi.org/10.1016/j.jmsy.2023.08.014)**
+   - **[paper](https://doi.org/10.1016/j.jmsy.2023.08.014)**
 
 2. IDSN: A one-stage Interpretable and Differentiable STFT domain adaptation Network for traction motor of high-speed trains cross-machine diagnosis[![Citation Count](https://img.shields.io/badge/citations-0-blue)](https://example.com/link_to_your_paper)
 
    - **code**    
    
    
-      - **paper**
+   - **paper**
    
         ------
    
