@@ -35,20 +35,21 @@ Here are some ideas to get you started:
 1. [Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)[![Citation Count](https://img.shields.io/badge/citations-0-blue)](https://example.com/link_to_your_paper)
 
    - **[code](https://github.com/liguge/EWSNet)**    
+   
+   
+      - **[paper](https://doi.org/10.1016/j.jmsy.2023.08.014)**
 
-
-   - **[paper](https://doi.org/10.1016/j.jmsy.2023.08.014)**
-     
 2. IDSN: A one-stage Interpretable and Differentiable STFT domain adaptation Network for traction motor of high-speed trains cross-machine diagnosis[![Citation Count](https://img.shields.io/badge/citations-0-blue)](https://example.com/link_to_your_paper)
 
    - **code**    
-
-
-   - **paper**
-
-     ------
-
-     
+   
+   
+      - **paper**
+   
+        ------
+   
+        
+   
 
 
 ​                                       $\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow$**Publications during the master 's degree**$\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow$
@@ -64,7 +65,7 @@ Here are some ideas to get you started:
 8. ~~[Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://doi.org/10.1109/ACCESS.2021.3064962)~~ [![Citation Count](https://img.shields.io/badge/citations-13-blue)](https://example.com/link_to_your_paper)     
 
     -  ~~[**code**](https://github.com/liguge/FWA-DBN-ELM-for-intelligent-fault-diagnosis)~~
-    -  [paper](https://doi.org/10.1109/ACCESS.2021.3064962)
+    -  ~~**[paper](https://doi.org/10.1109/ACCESS.2021.3064962)**~~
 
 
 
