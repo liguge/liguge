@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 8. ~~[Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://doi.org/10.1109/ACCESS.2021.3064962)~~ [![Citation Count](https://img.shields.io/badge/citations-13-blue)](https://example.com/link_to_your_paper)     
 
     -  ~~[**code**](https://github.com/liguge/FWA-DBN-ELM-for-intelligent-fault-diagnosis)~~
+    -  [paper](https://doi.org/10.1109/ACCESS.2021.3064962)
 
 
 
