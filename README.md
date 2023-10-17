@@ -44,7 +44,7 @@ Here are some ideas to get you started:
    - **code**    
    
    
-   - **paper**
+   - **[paper](https://doi.org/10.1016/j.ymssp.2023.110846)**
    
         ------
    
