@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ​                                       $\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow$**Publications during the master 's degree**$\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow$
 
-1. [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242) [![Citation Count](https://img.shields.io/badge/citations-54-blue)](https://example.com/link_to_your_paper)   
+1. [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242) [![Citation Count](https://img.shields.io/badge/citations-56-blue)](https://example.com/link_to_your_paper)   
     -  [code](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)
     -  [paper](https://doi.org/10.1016/j.measurement.2021.110242)
 3. [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://doi.org/10.13465/j.cnki.jvs.2022.24.006)
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
     - [paper](https://doi.org/10.13465/j.cnki.jvs.2022.24.006)
 6. Under Review
 7. **[Journals of Prognostics and Health Management（智能故障诊断和寿命预测期刊）](https://github.com/liguge/Journals-for-Prognostics-and-Health-Management)**
-8. ~~[Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://doi.org/10.1109/ACCESS.2021.3064962)~~ [![Citation Count](https://img.shields.io/badge/citations-18-blue)](https://example.com/link_to_your_paper)     
+8. ~~[Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://doi.org/10.1109/ACCESS.2021.3064962)~~ [![Citation Count](https://img.shields.io/badge/citations-19-blue)](https://example.com/link_to_your_paper)     
 
     -  ~~[**code**](https://github.com/liguge/FWA-DBN-ELM-for-intelligent-fault-diagnosis)~~
     -  ~~**[paper](https://doi.org/10.1109/ACCESS.2021.3064962)**~~
