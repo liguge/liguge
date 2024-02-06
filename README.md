@@ -35,20 +35,22 @@ Here are some ideas to get you started:
 1. [Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)[![Citation Count](https://img.shields.io/badge/citations-9-blue)](https://example.com/link_to_your_paper)
 
    - **[code](https://github.com/liguge/EWSNet)**    
-
-
-   - **[paper](https://doi.org/10.1016/j.jmsy.2023.08.014)**
+   
+   
+      - **[paper](https://doi.org/10.1016/j.jmsy.2023.08.014)**
+   
 
 2. [IDSN: A one-stage Interpretable and Differentiable STFT domain adaptation Network for traction motor of high-speed trains cross-machine diagnosis](https://doi.org/10.1016/j.ymssp.2023.110846)[![Citation Count](https://img.shields.io/badge/citations-5-blue)](https://example.com/link_to_your_paper)
 
    - **[code](https://github.com/liguge/IDSN_public)**    
+   
+   
+      - **[paper](https://doi.org/10.1016/j.ymssp.2023.110846)**
+   
 
+3. [Interpretable Physics-informed Domain Adaptation Paradigm for Cross-machine Transfer Diagnosis]()[![Citation Count](https://img.shields.io/badge/citations-0-blue)](https://example.com/link_to_your_paper)
 
-   - **[paper](https://doi.org/10.1016/j.ymssp.2023.110846)**
-
-3. []()[![Citation Count](https://img.shields.io/badge/citations-0-blue)](https://example.com/link_to_your_paper)
-
-     - **[code]()**    
+     - **[code](https://github.com/liguge/WIDAN_new)**    
      - **[paper]()**
 
 4. Teacher Review
