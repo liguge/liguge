@@ -32,21 +32,29 @@ Here are some ideas to get you started:
 
 
 ### 🌱 My published papers：
-1. [Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)[![Citation Count](https://img.shields.io/badge/citations-9-blue)](https://example.com/link_to_your_paper)
+1. [Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014
+        
+        )[![Citation Count](https://img.shields.io/badge/citations-9-blue)](https://example.com/link_to_your_paper)
 
    - **[code](https://github.com/liguge/EWSNet)**    
 
 
-   - **[paper](https://doi.org/10.1016/j.jmsy.2023.08.014)**
+   - **[paper](https://doi.org/10.1016/j.jmsy.2023.08.014
+        
+        )**
 
-2. [IDSN: A one-stage Interpretable and Differentiable STFT domain adaptation Network for traction motor of high-speed trains cross-machine diagnosis](https://doi.org/10.1016/j.ymssp.2023.110846)[![Citation Count](https://img.shields.io/badge/citations-5-blue)](https://example.com/link_to_your_paper)
+2. [IDSN: A one-stage Interpretable and Differentiable STFT domain adaptation Network for traction motor of high-speed trains cross-machine diagnosis](https://doi.org/10.1016/j.ymssp.2023.110846
+        
+        )[![Citation Count](https://img.shields.io/badge/citations-5-blue)](https://example.com/link_to_your_paper)
 
    - **[code](https://github.com/liguge/IDSN_public)**    
 
 
-   - **[paper](https://doi.org/10.1016/j.ymssp.2023.110846)**
+   - **[paper](https://doi.org/10.1016/j.ymssp.2023.110846
+        
+        )**
 
-3. [Interpretable Physics-informed Domain Adaptation Paradigm for Cross-machine Transfer Diagnosis]()[![Citation Count](https://img.shields.io/badge/citations-0-blue)](https://example.com/link_to_your_paper)
+3. []()[![Citation Count](https://img.shields.io/badge/citations-0-blue)](https://example.com/link_to_your_paper)
 
      - **[code]()**    
 
@@ -62,32 +70,60 @@ Here are some ideas to get you started:
 
 ​                                       $\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow$**Publications during the master 's degree**$\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow$
 
-1. [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242) [![Citation Count](https://img.shields.io/badge/citations-71-blue)](https://example.com/link_to_your_paper)   
+1. [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242
+        
+        ) [![Citation Count](https://img.shields.io/badge/citations-71-blue)](https://example.com/link_to_your_paper)   
     -  [code](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)
-    -  [paper](https://doi.org/10.1016/j.measurement.2021.110242)
-3. [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://doi.org/10.13465/j.cnki.jvs.2022.24.006)
+    -  [paper](https://doi.org/10.1016/j.measurement.2021.110242
+        
+        )
+3. [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://doi.org/10.13465/j.cnki.jvs.2022.24.006
+        
+        )
     - [code](https://github.com/liguge/DLWCB)     
-    - [paper](https://doi.org/10.13465/j.cnki.jvs.2022.24.006)
+    - [paper](https://doi.org/10.13465/j.cnki.jvs.2022.24.006
+        
+        )
 7. **[Journals of Prognostics and Health Management（智能故障诊断和寿命预测期刊）](https://github.com/liguge/Journals-for-Prognostics-and-Health-Management)**
-8. ~~[Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://doi.org/10.1109/ACCESS.2021.3064962)~~ [![Citation Count](https://img.shields.io/badge/citations-19-blue)](https://example.com/link_to_your_paper)     
+8. ~~[Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://doi.org/10.1109/ACCESS.2021.3064962
+        
+        )~~ [![Citation Count](https://img.shields.io/badge/citations-19-blue)](https://example.com/link_to_your_paper)     
 
     -  ~~[**code**](https://github.com/liguge/FWA-DBN-ELM-for-intelligent-fault-diagnosis)~~
-    -  ~~**[paper](https://doi.org/10.1109/ACCESS.2021.3064962)**~~
+    -  ~~**[paper](https://doi.org/10.1109/ACCESS.2021.3064962
+        
+        )**~~
 
 
 
 
 ### 💬 Published papers that I try to reproduce（unofficial code）
 
-1. Deep Residual Shrinkage Networks for Fault Diagnosis. [paper](https://doi.org/10.1109/TII.2019.2943898) [code](https://github.com/liguge/Deep-Residual-Shrinkage-Networks-for-intelligent-fault-diagnosis-DRSN-)
-3. A Rolling Bearing Fault Diagnosis Method Using Multi-Sensor Data and Periodic Sampling. [paper](https://doi.org/10.1109/ICME52920.2022.9859658) [code](https://github.com/liguge/MDPS_pytorch)
-4. Deep discriminative transfer learning network for cross-machine fault diagnosis. [paper](https://doi.org/10.1016/j.ymssp.2022.109884) [code](https://github.com/liguge/DDTLN)
-5. GTFE-Net: A Gramian Time Frequency Enhancement CNN for bearing fault diagnosis. [paper](https://doi.org/10.1016/j.engappai.2022.105794) [code](https://github.com/liguge/GTFENet_pytorch)
-6. Capsule network for fault diagnosis. [paper](https://doi.org/10.1109/JSEN.2022.3169341) [code](https://github.com/liguge/Capsule-network-for-fault-diagnosis)
+1. Deep Residual Shrinkage Networks for Fault Diagnosis. [paper](https://doi.org/10.1109/TII.2019.2943898
+        
+        ) [code](https://github.com/liguge/Deep-Residual-Shrinkage-Networks-for-intelligent-fault-diagnosis-DRSN-)
+3. A Rolling Bearing Fault Diagnosis Method Using Multi-Sensor Data and Periodic Sampling. [paper](https://doi.org/10.1109/ICME52920.2022.9859658
+        
+        ) [code](https://github.com/liguge/MDPS_pytorch)
+4. Deep discriminative transfer learning network for cross-machine fault diagnosis. [paper](https://doi.org/10.1016/j.ymssp.2022.109884
+        
+        ) [code](https://github.com/liguge/DDTLN)
+5. GTFE-Net: A Gramian Time Frequency Enhancement CNN for bearing fault diagnosis. [paper](https://doi.org/10.1016/j.engappai.2022.105794
+        
+        ) [code](https://github.com/liguge/GTFENet_pytorch)
+6. Capsule network for fault diagnosis. [paper](https://doi.org/10.1109/JSEN.2022.3169341
+        
+        ) [code](https://github.com/liguge/Capsule-network-for-fault-diagnosis)
 7. Milling chatter recognition.  [code](https://github.com/liguge/chanzhen)
-8. A fault diagnosis method for rotating machinery based on CNN with mixed information. [paper](https://doi.org/10.1109/TII.2022.3224979) [code](https://github.com/liguge/MIXCNN_pytorch)
-9. CNN parameter design based on fault signal analysis and its application in bearing fault diagnosis. [paper](https://doi.org/10.1016/j.aei.2023.101877) [code](https://github.com/liguge/PGCNN)
-10. Maximum mean square discrepancy: A new discrepancy representation metric for mechanical fault transfer diagnosis. [paper](https://doi.org/10.1016/j.knosys.2023.110748) [code](https://github.com/liguge/MMSD)
+8. A fault diagnosis method for rotating machinery based on CNN with mixed information. [paper](https://doi.org/10.1109/TII.2022.3224979
+        
+        ) [code](https://github.com/liguge/MIXCNN_pytorch)
+9. CNN parameter design based on fault signal analysis and its application in bearing fault diagnosis. [paper](https://doi.org/10.1016/j.aei.2023.101877
+        
+        ) [code](https://github.com/liguge/PGCNN)
+10. Maximum mean square discrepancy: A new discrepancy representation metric for mechanical fault transfer diagnosis. [paper](https://doi.org/10.1016/j.knosys.2023.110748
+        
+        ) [code](https://github.com/liguge/MMSD)
 
 
 
