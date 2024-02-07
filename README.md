@@ -42,10 +42,10 @@ Here are some ideas to get you started:
    - **[code](https://github.com/liguge/IDSN_public)**    
    - **[paper](https://doi.org/10.1016/j.ymssp.2023.110846)**
    
-3. [Interpretable Physics-informed Domain Adaptation Paradigm for Cross-machine Transfer Diagnosis]()[![Citation Count](https://img.shields.io/badge/citations-0-blue)](https://example.com/link_to_your_paper)
+3. [Interpretable Physics-informed Domain Adaptation Paradigm for Cross-machine Transfer Diagnosis](https://doi.org/10.1016/j.knosys.2024.111499)[![Citation Count](https://img.shields.io/badge/citations-0-blue)](https://example.com/link_to_your_paper)
 
    - **[code](https://github.com/liguge/WIDAN_new)**    
-   - **[paper]()**
+   - **[paper](https://doi.org/10.1016/j.knosys.2024.111499)**
 
 4. Teacher Review
 
