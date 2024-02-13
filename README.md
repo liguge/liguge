@@ -32,22 +32,24 @@ Here are some ideas to get you started:
 
 
 ### 🌱 My published papers：
-1. [Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)[![Citation Count](https://img.shields.io/badge/citations-9-blue)](https://example.com/link_to_your_paper)
+1. [Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)[![Citation Count](https://img.shields.io/badge/citations-11-blue)](https://example.com/link_to_your_paper)
 
    - **[code](https://github.com/liguge/EWSNet)**    
    - **[paper](https://doi.org/10.1016/j.jmsy.2023.08.014)**
-   
-2. [IDSN: A one-stage Interpretable and Differentiable STFT domain adaptation Network for traction motor of high-speed trains cross-machine diagnosis](https://doi.org/10.1016/j.ymssp.2023.110846)[![Citation Count](https://img.shields.io/badge/citations-5-blue)](https://example.com/link_to_your_paper)
+
+2. [IDSN: A one-stage Interpretable and Differentiable STFT domain adaptation Network for traction motor of high-speed trains cross-machine diagnosis](https://doi.org/10.1016/j.ymssp.2023.110846)[![Citation Count](https://img.shields.io/badge/citations-6-blue)](https://example.com/link_to_your_paper)
 
    - **[code](https://github.com/liguge/IDSN_public)**    
    - **[paper](https://doi.org/10.1016/j.ymssp.2023.110846)**
-   
+
 3. [Interpretable Physics-informed Domain Adaptation Paradigm for Cross-machine Transfer Diagnosis](https://doi.org/10.1016/j.knosys.2024.111499)[![Citation Count](https://img.shields.io/badge/citations-0-blue)](https://example.com/link_to_your_paper)
 
-   - **[code](https://github.com/liguge/WIDAN_new)**    
+   - **[code](https://github.com/liguge/WIDAN)**    
    - **[paper](https://doi.org/10.1016/j.knosys.2024.111499)**
 
 4. Teacher Review
+
+5. **[Journals of Prognostics and Health Management（智能故障诊断和寿命预测期刊）](https://github.com/liguge/Journals-for-Prognostics-and-Health-Management)**
 
    ------
 
@@ -56,13 +58,12 @@ Here are some ideas to get you started:
 
 ​                                       $\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow$**Publications during the master 's degree**$\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow$
 
-1. [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242) [![Citation Count](https://img.shields.io/badge/citations-71-blue)](https://example.com/link_to_your_paper)   
+1. [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242) [![Citation Count](https://img.shields.io/badge/citations-72-blue)](https://example.com/link_to_your_paper)   
     -  [code](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)
     -  [paper](https://doi.org/10.1016/j.measurement.2021.110242)
 3. [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://doi.org/10.13465/j.cnki.jvs.2022.24.006)
     - [code](https://github.com/liguge/DLWCB)     
     - [paper](https://doi.org/10.13465/j.cnki.jvs.2022.24.006)
-7. **[Journals of Prognostics and Health Management（智能故障诊断和寿命预测期刊）](https://github.com/liguge/Journals-for-Prognostics-and-Health-Management)**
 8. ~~[Rolling Bearing Sub-Health Recognition via Extreme Learning Machine Based on Deep Belief Network Optimized by Improved Fireworks](https://doi.org/10.1109/ACCESS.2021.3064962)~~ [![Citation Count](https://img.shields.io/badge/citations-19-blue)](https://example.com/link_to_your_paper)     
 
     -  ~~[**code**](https://github.com/liguge/FWA-DBN-ELM-for-intelligent-fault-diagnosis)~~
