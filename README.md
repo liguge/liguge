@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 ### 🌱 My published papers：
-1. [Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)[![Citation Count](https://img.shields.io/badge/citations-11-blue)](https://example.com/link_to_your_paper)
+1. [Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)[![Citation Count](https://img.shields.io/badge/citations-12-blue)](https://example.com/link_to_your_paper)
 
    - **[code](https://github.com/liguge/EWSNet)**    
    - **[paper](https://doi.org/10.1016/j.jmsy.2023.08.014)**
