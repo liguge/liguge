@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 7. A fault diagnosis method for rotating machinery based on CNN with mixed information. [paper](https://doi.org/10.1109/TII.2022.3224979) [code](https://github.com/liguge/MIXCNN_pytorch)
 8. CNN parameter design based on fault signal analysis and its application in bearing fault diagnosis. [paper](https://doi.org/10.1016/j.aei.2023.101877) [code](https://github.com/liguge/PGCNN)
 9. Maximum mean square discrepancy: A new discrepancy representation metric for mechanical fault transfer diagnosis. [paper](https://doi.org/10.1016/j.knosys.2023.110748) [code](https://github.com/liguge/MMSD)
-10. MNAD. [paper](https://doi.org/10.1088/1361-6501/ac3fc7) [code](https://github.com/liguge/Test)
+10. A blind deconvolution algorithm based on backward automatic differentiation and its application to rolling bearing fault diagnosis. [paper](https://doi.org/10.1088/1361-6501/ac3fc7) [code](https://github.com/liguge/Test)
 
 
 
