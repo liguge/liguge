@@ -90,6 +90,12 @@ Here are some ideas to get you started:
 
 [![GitHub ohmycaptainnemo](https://img.shields.io/github/followers/liguge?label=follow&style=social)](https://github.com/liguge)
 
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-blue)](https://www.researchgate.net/profile/Chao-He-64)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Follow-green)](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en)
+
+[![ResearchGate](https://img.shields.io/badge/Zhihu-Follow-pink)](https://www.zhihu.com/people/huantaihechao)
+[![Google Scholar](https://img.shields.io/badge/Github-Follow-red)](https://github.com/liguge)
+
 ### ⚡ Social
 
  - **chaohe#bjtu.edu.cn**
