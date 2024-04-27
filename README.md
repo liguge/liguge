@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 
 
 ### 🌱 My published papers：
-1. [Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)[![Citation Count](https://img.shields.io/badge/citations-23-blue)](https://example.com/link_to_your_paper)
+1. [Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)[![Citation Count](https://img.shields.io/badge/citations-26-blue)](https://example.com/link_to_your_paper)
 
    - **[code](https://github.com/liguge/EWSNet)**    
    - **[paper](https://doi.org/10.1016/j.jmsy.2023.08.014)**
 
-2. [IDSN: A one-stage Interpretable and Differentiable STFT domain adaptation Network for traction motor of high-speed trains cross-machine diagnosis](https://doi.org/10.1016/j.ymssp.2023.110846)[![Citation Count](https://img.shields.io/badge/citations-9-blue)](https://example.com/link_to_your_paper)
+2. [IDSN: A one-stage Interpretable and Differentiable STFT domain adaptation Network for traction motor of high-speed trains cross-machine diagnosis](https://doi.org/10.1016/j.ymssp.2023.110846)[![Citation Count](https://img.shields.io/badge/citations-10-blue)](https://example.com/link_to_your_paper)
 
    - **[code](https://github.com/liguge/IDSN_public)**    
    - **[paper](https://doi.org/10.1016/j.ymssp.2023.110846)**
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ​                                       $\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow$**Publications during the master 's degree**$\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow$
 
-1. [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242) [![Citation Count](https://img.shields.io/badge/citations-88-blue)](https://example.com/link_to_your_paper)   
+1. [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242) [![Citation Count](https://img.shields.io/badge/citations-91-blue)](https://example.com/link_to_your_paper)   
     -  [code](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)
     -  [paper](https://doi.org/10.1016/j.measurement.2021.110242)
 3. [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://kns.cnki.net/kcms2/article/abstract?v=YoFA4grnCX4IptBzWglGXApO5AGPdZ156g6v-p2jrPHNmVObS4A1qgfoVQ5DLQmA0tZPfcGejDUBj3Pn0PsDC_CaIm9TKNDyXl3emEIY_kWSGFi3qKnIFL9hMXTytEQaZrlUvmHXxiA=&uniplatform=NZKPT&flag=copy)
