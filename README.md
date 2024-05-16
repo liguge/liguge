@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ​                                       $\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow$**Publications during the master 's degree**$\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow$
 
-1. [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242) [![Citation Count](https://img.shields.io/badge/citations-94-blue)](https://example.com/link_to_your_paper)   
+1. [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242) [![Citation Count](https://img.shields.io/badge/citations-95-blue)](https://example.com/link_to_your_paper)   
     -  [code](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)
     -  [paper](https://doi.org/10.1016/j.measurement.2021.110242)
 3. [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://kns.cnki.net/kcms2/article/abstract?v=YoFA4grnCX4IptBzWglGXApO5AGPdZ156g6v-p2jrPHNmVObS4A1qgfoVQ5DLQmA0tZPfcGejDUBj3Pn0PsDC_CaIm9TKNDyXl3emEIY_kWSGFi3qKnIFL9hMXTytEQaZrlUvmHXxiA=&uniplatform=NZKPT&flag=copy)
@@ -86,6 +86,7 @@ Here are some ideas to get you started:
 8. CNN parameter design based on fault signal analysis and its application in bearing fault diagnosis. [paper](https://doi.org/10.1016/j.aei.2023.101877) [code](https://github.com/liguge/PGCNN)
 9. Maximum mean square discrepancy: A new discrepancy representation metric for mechanical fault transfer diagnosis. [paper](https://doi.org/10.1016/j.knosys.2023.110748) [code](https://github.com/liguge/MMSD)
 10. A blind deconvolution algorithm based on backward automatic differentiation and its application to rolling bearing fault diagnosis. [paper](https://doi.org/10.1088/1361-6501/ac3fc7) [code](https://github.com/liguge/Test)
+11. xLSTM for Intelligent Fault Diagnosis of Rolling Bearings. [code](https://github.com/liguge/xLSTM-for-intelligent-fault-diagnosis-of-rolling-bearings)
 
 
 
