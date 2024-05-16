@@ -52,7 +52,7 @@ Here are some ideas to get you started:
    - **[code](https://github.com/liguge/PyDSN)**![Github stars](https://img.shields.io/github/stars/liguge/PyDSN.svg)
    - **[paper](https://doi.org/10.1016/j.aei.2024.102568)**
 
-5. **[Journals of Prognostics and Health Management（智能故障诊断和寿命预测期刊）](https://github.com/liguge/Journals-for-Prognostics-and-Health-Management)**
+5. **[Journals of Prognostics and Health Management（智能故障诊断和寿命预测期刊）](https://github.com/liguge/Journals-for-Prognostics-and-Health-Management)**![Github stars](https://img.shields.io/github/stars/liguge/Journals-for-Prognostics-and-Health-Management.svg)  
 
    ------
 
