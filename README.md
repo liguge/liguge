@@ -42,7 +42,7 @@ Here are some ideas to get you started:
    - **[code](https://github.com/liguge/IDSN_public)**  ![Github stars](https://img.shields.io/github/stars/liguge/IDSN_public.svg)  
    - **[paper](https://doi.org/10.1016/j.ymssp.2023.110846)**
 
-3. [Interpretable Physics-informed Domain Adaptation Paradigm for Cross-machine Transfer Diagnosis](https://doi.org/10.1016/j.knosys.2024.111499)[![Citation Count](https://img.shields.io/badge/citations-3-blue)](https://example.com/link_to_your_paper)
+3. [Interpretable Physics-informed Domain Adaptation Paradigm for Cross-machine Transfer Diagnosis](https://doi.org/10.1016/j.knosys.2024.111499)[![Citation Count](https://img.shields.io/badge/citations-4-blue)](https://example.com/link_to_your_paper)
 
    - **[code](https://github.com/liguge/WIDAN)**  ![Github stars](https://img.shields.io/github/stars/liguge/WIDAN.svg)  
    - **[paper](https://doi.org/10.1016/j.knosys.2024.111499)**
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ​                                       $\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow$**Publications during the master 's degree**$\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow$
 
-1. [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242) [![Citation Count](https://img.shields.io/badge/citations-95-blue)](https://example.com/link_to_your_paper)   
+1. [Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242) [![Citation Count](https://img.shields.io/badge/citations-96-blue)](https://example.com/link_to_your_paper)   
     -  [code](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)![Github stars](https://img.shields.io/github/stars/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism.svg)
     -  [paper](https://doi.org/10.1016/j.measurement.2021.110242)
 3. [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://kns.cnki.net/kcms2/article/abstract?v=YoFA4grnCX4IptBzWglGXApO5AGPdZ156g6v-p2jrPHNmVObS4A1qgfoVQ5DLQmA0tZPfcGejDUBj3Pn0PsDC_CaIm9TKNDyXl3emEIY_kWSGFi3qKnIFL9hMXTytEQaZrlUvmHXxiA=&uniplatform=NZKPT&flag=copy)
@@ -77,16 +77,30 @@ Here are some ideas to get you started:
 ### 💬 Published papers that I try to reproduce（unofficial code）
 
 1. Deep Residual Shrinkage Networks for Fault Diagnosis. [paper](https://doi.org/10.1109/TII.2019.2943898) [code](https://github.com/liguge/Deep-Residual-Shrinkage-Networks-for-intelligent-fault-diagnosis-DRSN-) ![Github stars](https://img.shields.io/github/stars/liguge/Deep-Residual-Shrinkage-Networks-for-intelligent-fault-diagnosis-DRSN-.svg)
+
 2. A Rolling Bearing Fault Diagnosis Method Using Multi-Sensor Data and Periodic Sampling. [paper](https://doi.org/10.1109/ICME52920.2022.9859658) [code](https://github.com/liguge/MDPS_pytorch) ![Github stars](https://img.shields.io/github/stars/liguge/MDPS_pytorch.svg)
+
 3. Deep discriminative transfer learning network for cross-machine fault diagnosis. [paper](https://doi.org/10.1016/j.ymssp.2022.109884) [code](https://github.com/liguge/DDTLN) ![Github stars](https://img.shields.io/github/stars/liguge/DDTLN.svg)
+
 4. GTFE-Net: A Gramian Time Frequency Enhancement CNN for bearing fault diagnosis. [paper](https://doi.org/10.1016/j.engappai.2022.105794) [code](https://github.com/liguge/GTFENet_pytorch) ![Github stars](https://img.shields.io/github/stars/liguge/GTFENet_pytorch.svg)
+
 5. Capsule network for fault diagnosis. [paper](https://doi.org/10.1109/JSEN.2022.3169341) [code](https://github.com/liguge/Capsule-network-for-fault-diagnosis) ![Github stars](https://img.shields.io/github/stars/liguge/Capsule-network-for-fault-diagnosis.svg)
+
 6. Milling chatter recognition.  [code](https://github.com/liguge/chanzhen)
+
 7. A fault diagnosis method for rotating machinery based on CNN with mixed information. [paper](https://doi.org/10.1109/TII.2022.3224979) [code](https://github.com/liguge/MIXCNN_pytorch) ![Github stars](https://img.shields.io/github/stars/liguge/MIXCNN_pytorch.svg)
+
 8. CNN parameter design based on fault signal analysis and its application in bearing fault diagnosis. [paper](https://doi.org/10.1016/j.aei.2023.101877) [code](https://github.com/liguge/PGCNN) ![Github stars](https://img.shields.io/github/stars/liguge/PGCNN.svg)
+
 9. Maximum mean square discrepancy: A new discrepancy representation metric for mechanical fault transfer diagnosis. [paper](https://doi.org/10.1016/j.knosys.2023.110748) [code](https://github.com/liguge/MMSD) ![Github stars](https://img.shields.io/github/stars/liguge/MMSD.svg)
+
 10. A blind deconvolution algorithm based on backward automatic differentiation and its application to rolling bearing fault diagnosis. [paper](https://doi.org/10.1088/1361-6501/ac3fc7) [code](https://github.com/liguge/MAND) 
+
 11. xLSTM for Intelligent Fault Diagnosis of Rolling Bearings. [code](https://github.com/liguge/xLSTM-for-intelligent-fault-diagnosis-of-rolling-bearings) ![Github stars](https://img.shields.io/github/stars/liguge/xLSTM-for-intelligent-fault-diagnosis-of-rolling-bearings.svg)
+
+12. Variance discrepancy representation: A vibration characteristic-guided distribution alignment metric for fault transfer diagnosis. [paper](https://doi.org/10.1016/j.ymssp.2024.111544) [code](https://github.com/liguge/Variance-discrepancy-representation) ![Github stars](https://img.shields.io/github/stars/liguge/Variance-discrepancy-representation-pytorch.svg)
+
+    
 
 
 
