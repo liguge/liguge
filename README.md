@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 
 12. Variance discrepancy representation: A vibration characteristic-guided distribution alignment metric for fault transfer diagnosis. [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.ymssp.2024.111544) [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/Variance-discrepancy-representation) ![Github stars](https://img.shields.io/github/stars/liguge/Variance-discrepancy-representation-pytorch.svg)
 
-13. DG-Softmax: A new domain generalization intelligent fault diagnosis method for planetary gearboxes.[![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.ress.2025.111057) [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)![Github stars](https://img.shields.io/github/stars/liguge/DG-Softmax.svg)
+13. DG-Softmax: A new domain generalization intelligent fault diagnosis method for planetary gearboxes.[![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.ress.2025.111057)[![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/DG-Softmax) ![Github stars](https://img.shields.io/github/stars/liguge/DG-Softmax.svg)
 
 
 
