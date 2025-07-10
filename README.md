@@ -46,7 +46,7 @@ Here are some ideas to get you started:
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/WIDAN)  ![Github stars](https://img.shields.io/github/stars/liguge/WIDAN.svg)  
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.knosys.2024.111499)
 
-4. [Interpretable modulated differentiable STFT and physics-informed balanced spectrum metric for freight train wheelset bearing cross-machine transfer fault diagnosis under speed fluctuations](https://doi.org/10.1016/j.aei.2024.102568)[![Citation Count](https://img.shields.io/badge/citations-56-blue)](https://example.com/link_to_your_paper)
+4. :trophy:[Interpretable modulated differentiable STFT and physics-informed balanced spectrum metric for freight train wheelset bearing cross-machine transfer fault diagnosis under speed fluctuations](https://doi.org/10.1016/j.aei.2024.102568)[![Citation Count](https://img.shields.io/badge/citations-56-blue)](https://example.com/link_to_your_paper)
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/PyDSN)  ![Github stars](https://img.shields.io/github/stars/liguge/PyDSN.svg)  
    - [![Paper](https://img.shields.io/badge/Paper_1-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.aei.2024.102568)  [![Paper](https://img.shields.io/badge/Paper_2-ARXIV-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.48550/arXiv.2406.11917)
    
