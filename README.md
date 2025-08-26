@@ -122,7 +122,7 @@ Here are some ideas to get you started:
  - **huantaihechao#163.com**
 
 ### ✅ Views
-
+![访问计数器](http://profile-counter.glitch.me/liguge/count.svg)
 ![](http://profile-counter.glitch.me/liguge/count.svg)
 
 ![:访问数](https://moe-counter.glitch.me/get/@liguge?theme=gelbooru)
