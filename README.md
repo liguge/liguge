@@ -122,6 +122,7 @@ Here are some ideas to get you started:
  - **huantaihechao#163.com**
 
 ### ✅ Views
+![](https://komarev.com/ghpvc/?username=liguge&color=ff69b4)
 ![访问计数器](http://profile-counter.glitch.me/liguge/count.svg)
 ![](http://profile-counter.glitch.me/liguge/count.svg)
 
