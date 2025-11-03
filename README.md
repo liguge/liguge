@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 5. Under Review
    - https://github.com/liguge/PIFCapsule
 6. **[Journals of Prognostics and Health Management（智能故障诊断和寿命预测期刊）](https://github.com/liguge/Journals-for-Prognostics-and-Health-Management)**![Github stars](https://img.shields.io/github/stars/liguge/Journals-for-Prognostics-and-Health-Management.svg)
-7. **[Large language model for Prognostics and health management（用于预测性维护与健康管理的大型语言模型）](https://github.com/liguge/Large-language-model-for-Prognostics-and-health-management)** ![Github stars](https://img.shields.io/github/stars/liguge/Large-language-model-for-Prognostics-and-health-management.svg)
+7. **[Awesome large language model for Prognostics and health management（用于预测性维护与健康管理的大型语言模型）](https://github.com/liguge/Large-language-model-for-Prognostics-and-health-management)** ![Github stars](https://img.shields.io/github/stars/liguge/Large-language-model-for-Prognostics-and-health-management.svg)
 
    
 
