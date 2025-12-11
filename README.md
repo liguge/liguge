@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 ### ❤️ Academic homepage
 
+
+  📫         [个人简历](https://liguge.github.io/)
+  
   📫         [Google scholar](https://scholar.google.com/citations?user=1DtpMlAAAAAJ&hl=en)
 
   📫         [ResearchGate](https://www.researchgate.net/profile/Chao-He-64)
