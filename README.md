@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 ### 🌱 My published paper：
-1. :fire::trophy:[Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)[`![Citation Count](https://img.shields.io/badge/citations-142-blue)`](https://example.com/link_to_your_paper)
+1. :fire::trophy:[Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)[![Citation Count](https://img.shields.io/badge/citations-142-blue)`](https://example.com/link_to_your_paper)
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/EWSNet)  ![Github stars](https://img.shields.io/github/stars/liguge/EWSNet.svg)  
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.jmsy.2023.08.014)
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
    - https://github.com/liguge/PIFCapsule
 6. **[Journals of Prognostics and Health Management（智能故障诊断和寿命预测期刊）](https://github.com/liguge/Journals-for-Prognostics-and-Health-Management)**![Github stars](https://img.shields.io/github/stars/liguge/Journals-for-Prognostics-and-Health-Management.svg)
 7. **[Awesome large language model for Prognostics and health management（用于预测性维护与健康管理的大型语言模型）](https://github.com/liguge/Large-language-model-for-Prognostics-and-health-management)** ![Github stars](https://img.shields.io/github/stars/liguge/Awesome-large-language-model-for-Prognostics-and-health-management.svg)
-8. **[Awesome Multi-modal datasets for fault diagnosis（多模态故障诊断数据集）](https://github.com/liguge/Awesome-multi-modal-datasets-for-fault-diagnosis)** ![Github stars](https://img.shields.io/github/stars/liguge/https://github.com/liguge/Awesome-multi-modal-datasets-for-fault-diagnosis.svg)
+8. **[Awesome Multi-modal datasets for fault diagnosis（多模态故障诊断数据集）](https://github.com/liguge/Awesome-multi-modal-datasets-for-fault-diagnosis)** ![Github stars](https://img.shields.io/github/stars/liguge/Awesome-multi-modal-datasets-for-fault-diagnosis.svg)
    
 
 ------
