@@ -140,9 +140,12 @@ Here are some ideas to get you started:
 
 ### 🏀 GitHub stats.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liguge&show_icons=true&theme=tokyonight)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liguge）](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/liguge/github-stats">
+<img src="https://github.com/liguge/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/liguge/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/liguge/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/liguge/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
 
 ### ⚽ GitHub trophy.
 
