@@ -136,7 +136,7 @@ Here are some ideas to get you started:
 
 ### 🏀 GitHub stats.
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/liguge?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![GitHub Streak](https://streak-stats.demolab.com?user=liguge&theme=transparent)](https://git.io/streak-stats)
 
 ### ⚾ Github activity graph.
 
