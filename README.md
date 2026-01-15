@@ -126,13 +126,9 @@ Here are some ideas to get you started:
  - **huantaihechao#163.com**
 
 ### ✅ Views
-![](http://profile-counter.glitch.me/liguge/count.svg)
+![](https://komarev.com/ghpvc/?username=liguge&abbreviated=true)
 
-![:访问数](https://moe-counter.glitch.me/get/@liguge?theme=gelbooru)
-
-### 🏠 CountTop Langs.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liguge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![:Visits](https://moe-counter.glitch.me/get/@liguge?theme=gelbooru)
 
 ### 🎁 GitHub Streak.
 
