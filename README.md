@@ -140,7 +140,7 @@ Here are some ideas to get you started:
 
 ### ⚽ GitHub trophy.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=liguge&theme=onedark)](https://github.com/liguge/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=liguge)](https://github.com/liguge/github-profile-trophy)
 
 ### ⚾ Github activity graph.
 
