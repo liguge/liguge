@@ -132,7 +132,7 @@ Here are some ideas to get you started:
 
 ### 🎁 GitHub Streak.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=liguge&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=liguge&theme=transparent)](https://git.io/streak-stats)
 
 ### 🏀 GitHub stats.
 
