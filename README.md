@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 
 ### 🌱 My published paper：
 
-<img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://raw.githubusercontent.com/liguge/liguge.github.io/google-scholar-stats/gs_data_shieldsio.json?rand=1&labelColor=f6f6f6&color=9cf&style=flat&label=Chao He - Google Scholar Citations" />
-
+<a href="https://scholar.google.com/citations?user=1DtpMlAAAAAJ" target="_blank">
+  <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://raw.githubusercontent.com/liguge/liguge.github.io/google-scholar-stats/gs_data_shieldsio.json&label=Chao%20He%20Google%20Scholar&labelColor=f6f6f6&color=3377bb&style=flat" />
+</a>
 
 1. :fire::trophy:[Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)[![Citation Count](https://img.shields.io/badge/citations-159-blue)`](https://example.com/link_to_your_paper)
 
