@@ -34,25 +34,23 @@ Here are some ideas to get you started:
 
 
 ### 🌱 My published paper：
-
-
-1. :fire::trophy:[Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)[![Citation Count](https://img.shields.io/badge/citations-159-blue)`](https://example.com/link_to_your_paper)
+1. :fire::trophy:[Physics-informed Interpretable Wavelet Weight Initialization and Balanced Dynamic Adaptive Threshold for Intelligent Fault Diagnosis of Rolling Bearings](https://doi.org/10.1016/j.jmsy.2023.08.014)[![Citation Count](https://img.shields.io/badge/citations-171-blue)`](https://example.com/link_to_your_paper)
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/EWSNet)  ![Github stars](https://img.shields.io/github/stars/liguge/EWSNet.svg)  
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.jmsy.2023.08.014)
-2. [IDSN: A one-stage Interpretable and Differentiable STFT domain adaptation Network for traction motor of high-speed trains cross-machine diagnosis](https://doi.org/10.1016/j.ymssp.2023.110846)[![Citation Count](https://img.shields.io/badge/citations-73-blue)](https://example.com/link_to_your_paper)
+2. [IDSN: A one-stage Interpretable and Differentiable STFT domain adaptation Network for traction motor of high-speed trains cross-machine diagnosis](https://doi.org/10.1016/j.ymssp.2023.110846)[![Citation Count](https://img.shields.io/badge/citations-82-blue)](https://example.com/link_to_your_paper)
    
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/IDSN_public)  ![Github stars](https://img.shields.io/github/stars/liguge/IDSN_public.svg)  (Coming soon!)
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.ymssp.2023.110846)
-3. :fire::trophy:[Interpretable Physics-informed Domain Adaptation Paradigm for Cross-machine Transfer Diagnosis](https://doi.org/10.1016/j.knosys.2024.111499)[![Citation Count](https://img.shields.io/badge/citations-100-blue)](https://example.com/link_to_your_paper)
+3. :fire::trophy:[Interpretable Physics-informed Domain Adaptation Paradigm for Cross-machine Transfer Diagnosis](https://doi.org/10.1016/j.knosys.2024.111499)[![Citation Count](https://img.shields.io/badge/citations-107-blue)](https://example.com/link_to_your_paper)
 
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/WIDAN)  ![Github stars](https://img.shields.io/github/stars/liguge/WIDAN.svg)  
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.knosys.2024.111499)
-4. :fire::trophy:[Interpretable modulated differentiable STFT and physics-informed balanced spectrum metric for freight train wheelset bearing cross-machine transfer fault diagnosis under speed fluctuations](https://doi.org/10.1016/j.aei.2024.102568)[![Citation Count](https://img.shields.io/badge/citations-100-blue)](https://example.com/link_to_your_paper)
+4. :fire::trophy:[Interpretable modulated differentiable STFT and physics-informed balanced spectrum metric for freight train wheelset bearing cross-machine transfer fault diagnosis under speed fluctuations](https://doi.org/10.1016/j.aei.2024.102568)[![Citation Count](https://img.shields.io/badge/citations-106-blue)](https://example.com/link_to_your_paper)
    
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/PyDSN)  ![Github stars](https://img.shields.io/github/stars/liguge/PyDSN.svg)  
    - [![Paper](https://img.shields.io/badge/Paper_1-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.aei.2024.102568)  [![Paper](https://img.shields.io/badge/Paper_2-ARXIV-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.48550/arXiv.2406.11917)
-5. [Prior knowledge-embedded first-layer interpretable paradigm for rail transit vehicle human-computer collaboration fault monitoring](https://doi.org/10.1016/j.jii.2026.101068)[![Citation Count](https://img.shields.io/badge/citations-0-blue)](https://example.com/link_to_your_paper)
+5. [Prior knowledge-embedded first-layer interpretable paradigm for rail transit vehicle human-computer collaboration fault monitoring](https://doi.org/10.1016/j.jii.2026.101068)[![Citation Count](https://img.shields.io/badge/citations-7-blue)](https://example.com/link_to_your_paper)
    
    - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/PIFCapsule)  ![Github stars](https://img.shields.io/github/stars/liguge/PIFCapsule.svg)  
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.jii.2026.101068)
@@ -68,7 +66,7 @@ Here are some ideas to get you started:
 
 ​                                       $\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow$**Publications during the master 's degree**$\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow\Downarrow$
 
-1. :trophy:[Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242) [![Citation Count](https://img.shields.io/badge/citations-279-blue)](https://example.com/link_to_your_paper)   
+1. :trophy:[Fault diagnosis for small samples based on attention mechanism](https://doi.org/10.1016/j.measurement.2021.110242) [![Citation Count](https://img.shields.io/badge/citations-300-blue)](https://example.com/link_to_your_paper)   
     - [![Code](https://img.shields.io/badge/Code-Website-blue.svg?logo=arXiv&logoColor=red)](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism)  ![Github stars](https://img.shields.io/github/stars/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism.svg)  
    - [![Paper](https://img.shields.io/badge/Paper-DOI-red.svg?logo=arXiv&logoColor=red)](https://doi.org/10.1016/j.measurement.2021.110242)
 3. [基于Laplace小波卷积和BiGRU的少量样本故障诊断方法](https://kns.cnki.net/kcms2/article/abstract?v=YoFA4grnCX4IptBzWglGXApO5AGPdZ156g6v-p2jrPHNmVObS4A1qgfoVQ5DLQmA0tZPfcGejDUBj3Pn0PsDC_CaIm9TKNDyXl3emEIY_kWSGFi3qKnIFL9hMXTytEQaZrlUvmHXxiA=&uniplatform=NZKPT&flag=copy)
@@ -133,6 +131,14 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=liguge&abbreviated=true)
 
 ![:Visits](https://moe-counter.glitch.me/get/@liguge?theme=gelbooru)
+
+![Profile Views](https://komarev.com/ghpvc/?username=liguge&color=brightgreen&style=flat&label=Views)
+
+![:Visits](https://count.getloli.com/get/@liguge?theme=gelbooru)
+
+![Stats](https://github-profile-trophy.vercel.app/?username=liguge&show_icons=true)
+
+
 
 ### 🏀 GitHub stats.
 
