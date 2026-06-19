@@ -1,0 +1,81 @@
+name: Update Stars Badge
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write   # ✅ 必须，否则 push 会被拒
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # ✅ 必须，否则切分支会炸
+
+      - name: Get Total Stars
+        env:
+          STAR_TOKEN: ${{ secrets.STAR_TOKEN }}
+        run: |
+          python3 << 'EOF'
+          import requests
+          import json
+          from datetime import datetime
+
+          token = "${{ secrets.STAR_TOKEN }}"
+          headers = {"Authorization": f"Bearer {token}"}
+          url = "https://api.github.com/users/liguge/repos"
+
+          total_stars = 0
+          page = 1
+
+          while True:
+              r = requests.get(url, headers=headers, params={"per_page": 100, "page": page})
+              repos = r.json()
+              if not isinstance(repos, list):
+                  raise RuntimeError(repos)
+              if not repos:
+                  break
+              total_stars += sum(repo.get("stargazers_count", 0) for repo in repos)
+              page += 1
+
+          data = {
+              "username": "liguge",
+              "total_stars": total_stars,
+              "updated_at": datetime.utcnow().isoformat()
+          }
+
+          with open("stars_data.json", "w") as f:
+              json.dump(data, f, indent=2)
+
+          badge = {
+              "schemaVersion": 1,
+              "label": "Stars",
+              "message": str(total_stars),
+              "color": "blue"
+          }
+
+          with open("badge.json", "w") as f:
+              json.dump(badge, f, indent=2)
+
+          print(f"✅ Stars: {total_stars}")
+          EOF
+
+      - name: Commit and Push to update-stars
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git switch -C update-stars
+
+          git add stars_data.json badge.json
+
+          git diff --quiet && echo "nothing to commit" && exit 0
+
+          git commit -m "chore: update stars"
+          git push -f origin update-stars
