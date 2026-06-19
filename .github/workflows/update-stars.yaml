@@ -55,7 +55,7 @@ jobs:
 
           badge = {
               "schemaVersion": 1,
-              "label": "Stars",
+              "label": "Total_stars",
               "message": str(total_stars),
               "color": "blue"
           }
