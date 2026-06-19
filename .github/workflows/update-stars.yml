@@ -1,0 +1,51 @@
+name: Update Stars Badge
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # 每6小时运行一次
+  workflow_dispatch:  # 手动触发
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: Get Total Stars
+        id: get_stars
+        run: |
+          import requests
+          import os
+          
+          username = "liguge"
+          token = os.getenv("GITHUB_TOKEN")
+          
+          url = f"https://api.github.com/users/{username}/repos"
+          headers = {"Authorization": f"Bearer {token}"}
+          params = {"per_page": 100}
+          
+          total_stars = 0
+          while True:
+              response = requests.get(url, headers=headers, params=params)
+              repos = response.json()
+              if not repos:
+                  break
+              for repo in repos:
+                  total_stars += repo.get("stargazers_count", 0)
+              if 'next' in response.links:
+                  url = response.links['next']['url']
+              else:
+                  break
+          
+          print(f"::set-output name=stars::{total_stars}")
+        shell: python
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Update README
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update stars badge to ${{ steps.get_stars.outputs.stars }}"
+          file_pattern: "README.md"
