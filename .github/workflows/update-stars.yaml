@@ -74,7 +74,7 @@ jobs:
         run: |
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git checkout -C update-stars
+            git checkout -B update-stars
             git add stars_data.json badge.json
             git commit -m "chore: update stars" || echo "nothing to commit"
             git push -f origin update-stars
