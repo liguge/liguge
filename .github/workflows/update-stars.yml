@@ -1,24 +1,31 @@
 name: Update Stars Badge
 
-on:
+on: 
+  page_build: 
   schedule:
     - cron: '0 */6 * * *'  # 每6小时运行一次
   workflow_dispatch:  # 手动触发
 
 jobs:
-  update-stars:
+  build:
     runs-on: ubuntu-latest
-    
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v2
       
-      - name: Get Total Stars
-        id: get_stars
+      - name: Install Reqs
         run: |
+          sudo apt-get install python3-setuptools
+          pip3 install requests
+      
+      - name: Run
+        run: |
+          python3 << 'EOF'
           import requests
+          import json
           import os
+          from datetime import datetime
           
+          # 获取总Stars数
           username = "liguge"
           token = os.getenv("GITHUB_TOKEN")
           
@@ -27,25 +34,65 @@ jobs:
           params = {"per_page": 100}
           
           total_stars = 0
+          total_repos = 0
+          
+          page = 1
+          
           while True:
+              params["page"] = page
               response = requests.get(url, headers=headers, params=params)
               repos = response.json()
-              if not repos:
+              
+              if not repos or response.status_code != 200:
                   break
+              
               for repo in repos:
                   total_stars += repo.get("stargazers_count", 0)
-              if 'next' in response.links:
-                  url = response.links['next']['url']
-              else:
+                  total_repos += 1
+              
+              if len(repos) < 100:
                   break
+              page += 1
           
-          print(f"::set-output name=stars::{total_stars}")
-        shell: python
-        env:
+          print(f"Total Stars: {total_stars}")
+          print(f"Total Repositories: {total_repos}")
+          
+          # 构建简洁的JSON数据
+          data = {
+              "username": username,
+              "total_stars": total_stars,
+              "total_repositories": total_repos,
+              "updated_at": datetime.now().isoformat()
+          }
+          
+          # 写入JSON文件
+          with open("stars_data.json", "w", encoding="utf-8") as f:
+              json.dump(data, f, indent=2, ensure_ascii=False)
+          
+          # 生成badge.json
+          badge_data = {
+              "schemaVersion": 1,
+              "label": "Total Stars",
+              "message": str(total_stars),
+              "color": "blue",
+              "style": "flat",
+              "logo": "github",
+              "logoColor": "white"
+          }
+          
+          with open("badge.json", "w", encoding="utf-8") as f:
+              json.dump(badge_data, f, indent=2)
+          
+          print("JSON files created successfully")
+          EOF
+        
+        env: 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: Update README
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "chore: update stars badge to ${{ steps.get_stars.outputs.stars }}"
-          file_pattern: "README.md"
+      - name: Commit and Push
+        run: |
+          git config --local user.name "${GITHUB_ACTOR}"
+          git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git add stars_data.json badge.json
+          git commit -m "chore: update stars to $(python3 -c 'import json; f=open(\"stars_data.json\"); d=json.load(f); print(d[\"total_stars\"])')" || echo "No changes to commit"
+          git push
