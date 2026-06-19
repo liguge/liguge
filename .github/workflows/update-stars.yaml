@@ -75,7 +75,7 @@ jobs:
           EOF
         
         env:
-          GITHUB_TOKEN:  $ {{ secrets.GITHUB_TOKEN }}  # ← 安全！自动提供
+          GITHUB_TOKEN:  $ {{ secrets.STAR_TOKEN }}  # ← 安全！自动提供
       
       - name: Commit Changes
         run: |
