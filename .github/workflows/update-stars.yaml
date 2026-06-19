@@ -70,7 +70,7 @@ jobs:
           EOF
         
         env:
-          STAR_TOKEN:  $ {{ secrets.STAR_TOKEN }}  # ← 安全！自动提供
+          STAR_TOKEN: ${{ secrets.STAR_TOKEN}}  # ← 安全！自动提供
       
       - name: Commit Changes
         run: |
