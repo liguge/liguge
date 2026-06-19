@@ -22,7 +22,7 @@ jobs:
           username = "liguge"
           # 从环境变量读取 token（安全！）
           token = os.getenv("STAR_TOKEN")
-          print(token)
+          print("errpr":token)
           url = f"https://api.github.com/users/{username}/repos"
           headers = {"Authorization": f"Bearer {token}"}
           params = {"per_page": 100, "page": 1}
