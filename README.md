@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Stars](https://komarev.com/ghpvc/?username=liguge&label=Profile%20views&color=0e75b6&style=flat)
 ### ❤️ Academic homepage
  
   📫         [Academic CV](https://liguge.github.io/)
