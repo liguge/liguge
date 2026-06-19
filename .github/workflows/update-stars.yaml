@@ -56,8 +56,7 @@ jobs:
               "schemaVersion": 1,
               "label": "Total Stars",
               "message": str(total_stars),
-              "color": "blue",
-              "logo": "github"
+              "color": "blue"
           }
           
           with open("badge.json", "w", encoding="utf-8") as f:
